@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    paddign: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -15,6 +15,9 @@
     font-weight: 600;
     color: #FFF;
 }
+.btn:hover{
+    background-color: #23583a;
+}
 
 .btn_2 {
     background-color: transparent;
@@ -24,6 +27,9 @@
     font-size: 16px;
     font-weight: 600;
     color: #FFF;
+}
+.btn_2:hover {
+    background-color: #30B868;
 }
 
 /* main style */
